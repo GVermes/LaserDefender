@@ -6441,7 +6441,7 @@
 							"script": {
 								"id": "2c5e4d51-985d-407c-af96-ca4ed7fda042",
 								"exec": [
-									"pm.environment.set(\"Generated_NonExistingIONumber\", '1234-1-2');"
+									"pm.environment.set(\"Generated_NonExistingIONumber\", '1234-1-1');"
 								],
 								"type": "text/javascript"
 							}
